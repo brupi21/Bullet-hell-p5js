@@ -1,4 +1,5 @@
 #Bullet-hell-p5js
+
 var gameActive = false; 
 let fondo;
 let player = {}; // Objeto para el jugador
